@@ -16,7 +16,7 @@ I am a postdoc in the School of Computer Science, Wuhan University, Wuhan, China
 
 I graduated from the School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China with a doctor's degree, advised by Prof. Meibin Qi (齐美彬). I received my bachelor’s degree from Fuyang Normal University, Fuyang, China. 
 
-You can find my CV here: [Cuiqun Chen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+You can find my CV here: [Cuiqun Chen's Curriculum Vitae](../assets/Curriclum_Vitae.pdf)
 
 Education
 ======

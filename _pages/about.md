@@ -21,6 +21,12 @@ Education
 * 2016.09 - 2022.06, PhD, Hefei University of Technology, Hefei, China.
 * 2012.09 - 2016.06, B.E, Fuyang Normal University, Fuyang, China.
 
+Projects
+======
+* 2024-2026, Research on Person Re-identification with Descriptive Query, NSFC Youth Science Foundation, 300,000RMB, Principal Investigator
+* 2024-2025, Research on cross-domain generalized person re-identification for descriptive query, China Postdoctoral Science Foundation Special Funding (Pre-Station), 180,000RMB, Principal Investigator
+* 2024-2025, Research on multi-modal robust person re-identification based on unified representation, China Postdoctoral Science Foundation General Program, 80,000RMB, Principal Investigator
+* 2024-2025, Research on key technologies of Text-driven Virtual fitting based on the Diffusion Model, Open Project Fund of Engineering Research Center of Hubei Province for Clothing Information (Wuhan Textile University), 30,000MRB, Principal Investigator
 
 Honours and Awards
 ======

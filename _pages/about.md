@@ -1,13 +1,3 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 Short Bio
 ======
 I am a postdoc in the School of Computer Science, Wuhan University, Wuhan, China, advised by Prof. Mang Ye (叶茫) and Bo Du (杜博). My research interest includes person re-identification, sketch-photo recognition, and multi-modal learning. 

@@ -1,14 +1,13 @@
----
-permalink: /
-title: "Current"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+# ---
+# permalink: /
+# title: "Current"
+# excerpt: "About me"
+# author_profile: true
+# redirect_from: 
+ #  - /about/
+ # - /about.html
+# ---
 
-XXX
 
 Short Bio
 ======

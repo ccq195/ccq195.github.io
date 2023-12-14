@@ -18,10 +18,10 @@ author_profile: true
 
 2023
 ===
-% <p>
-% <img src="" width="100" align="left />  
-% [TPAMI2023]() Structure-aware positional transformer for visible-infrared person re-identification. Cuiqun Chen, Mang Ye, Meibin Qi, Jingjing Wu, Jianguo Jiang, Chia-Wen Lin.
-% </p>
+# <p>
+# <img src="" width="100" align="left />  
+# [TPAMI2023]() Structure-aware positional transformer for visible-infrared person re-identification. Cuiqun Chen, Mang Ye, Meibin Qi, Jingjing Wu, Jianguo Jiang, Chia-Wen Lin.
+# </p>
   
 <p>
 <img src="https://github.com/ccq195/ccq195.github.io/blob/master/images/cvpr2023.png" width="100" align="left />

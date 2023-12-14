@@ -25,9 +25,9 @@ author_profile: true
 Towards Modality-Agnostic Person Re-Identification With Descriptive Query. Cuiqun Chen, Mang Ye, Ding Jiang.
 </p><br> 
 
+<p>
 2022
 ===
-<p>
 <img src="https://github.com/ccq195/ccq195.github.io/blob/master/images/mm2022.png" width="300" align="left" />
 
 [MM2022](https://dl.acm.org/doi/abs/10.1145/3503161.3547993)

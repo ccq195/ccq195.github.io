@@ -9,10 +9,5 @@ permalink: /publication/2009-10-01-paper-title-number-1
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-2023
-===
 
-[TIP2022](https://ieeexplore.ieee.org/abstract/document/9725265) Structure-aware positional transformer for visible-infrared person re-identification. Cuiqun Chen, Mang Ye, Meibin Qi, Jingjing Wu, Jianguo Jiang, Chia-Wen Lin.
-
-![](images/tip2022.png#pic_left=200x300)
 

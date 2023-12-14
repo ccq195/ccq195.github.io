@@ -9,9 +9,10 @@ author_profile: true
 ===
 <img src="https://github.com/ccq195/ccq195.github.io/blob/master/images/cvpr2023.png" width="300" align="left" /> [CVPR2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Towards_Modality-Agnostic_Person_Re-Identification_With_Descriptive_Query_CVPR_2023_paper.pdf) Towards Modality-Agnostic Person Re-Identification With Descriptive Query. Cuiqun Chen, Mang Ye, Ding Jiang.
 
+
 2022
 ===
-<img src="https://github.com/ccq195/ccq195.github.io/blob/master/images/mm2022.png" width="300" align="left" /> [MM2022](https://dl.acm.org/doi/abs/10.1145/3503161.3547993) Sketch transformer: Asymmetrical disentanglement learning from dynamic synthesis. Cuiqun Chen, Mang Ye, Meibin Qi, Bo Du.    
+<img src="https://github.com/ccq195/ccq195.github.io/blob/master/images/mm2022.png" width="300" align="left" /> [MM2022](https://dl.acm.org/doi/abs/10.1145/3503161.3547993) Sketch transformer: Asymmetrical disentanglement learning from dynamic synthesis. Cuiqun Chen, Mang Ye, Meibin Qi, Bo Du. </br>  
 
 <img src="https://github.com/ccq195/ccq195.github.io/blob/master/images/tip2022.png" width="300" align="left" /> [TIP2022](https://ieeexplore.ieee.org/abstract/document/9725265) Structure-aware positional transformer for visible-infrared person re-identification. Cuiqun Chen, Mang Ye, Meibin Qi, Jingjing Wu, Jianguo Jiang, Chia-Wen Lin.     
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cuiqun Chen"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 

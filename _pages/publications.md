@@ -30,7 +30,8 @@ Towards Modality-Agnostic Person Re-Identification With Descriptive Query. Cuiqu
 <p>
 <img src="https://github.com/ccq195/ccq195.github.io/blob/master/images/mm2022.png" width="300" align="left" />
 
-[MM2022](https://dl.acm.org/doi/abs/10.1145/3503161.3547993) Sketch transformer: Asymmetrical disentanglement learning from dynamic synthesis. Cuiqun Chen, Mang Ye, Meibin Qi, Bo Du.
+[MM2022](https://dl.acm.org/doi/abs/10.1145/3503161.3547993)
+Sketch transformer: Asymmetrical disentanglement learning from dynamic synthesis. Cuiqun Chen, Mang Ye, Meibin Qi, Bo Du.
 </p><br> 
 <p>
 <img src="https://github.com/ccq195/ccq195.github.io/blob/master/images/tip2022.png" width="300" align="left" /><br>

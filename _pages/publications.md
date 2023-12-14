@@ -19,7 +19,7 @@ author_profile: true
 2023
 ===
 
-![image](https://github.com/ccq195/ccq195.github.io/blob/master/images/tip2022.png #pic_left =100x100) [TIP2022](https://ieeexplore.ieee.org/abstract/document/9725265) Structure-aware positional transformer for visible-infrared person re-identification. Cuiqun Chen, Mang Ye, Meibin Qi, Jingjing Wu, Jianguo Jiang, Chia-Wen Lin.
+![image](https://github.com/ccq195/ccq195.github.io/blob/master/images/tip2022.png#pic_left =100x100) [TIP2022](https://ieeexplore.ieee.org/abstract/document/9725265) Structure-aware positional transformer for visible-infrared person re-identification. Cuiqun Chen, Mang Ye, Meibin Qi, Jingjing Wu, Jianguo Jiang, Chia-Wen Lin.
 
 
 

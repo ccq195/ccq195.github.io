@@ -12,8 +12,9 @@ author_profile: true
 
 2022
 ===
+<p>
 <img src="https://github.com/ccq195/ccq195.github.io/blob/master/images/mm2022.png" width="300" align="left" /> [MM2022](https://dl.acm.org/doi/abs/10.1145/3503161.3547993) Sketch transformer: Asymmetrical disentanglement learning from dynamic synthesis. Cuiqun Chen, Mang Ye, Meibin Qi, Bo Du. </br>  
-
+</p>
 <img src="https://github.com/ccq195/ccq195.github.io/blob/master/images/tip2022.png" width="300" align="left" /> [TIP2022](https://ieeexplore.ieee.org/abstract/document/9725265) Structure-aware positional transformer for visible-infrared person re-identification. Cuiqun Chen, Mang Ye, Meibin Qi, Jingjing Wu, Jianguo Jiang, Chia-Wen Lin.     
 
 <img src="https://github.com/ccq195/ccq195.github.io/blob/master/images/tcsvt2022.png" width="300" align="left" /> [TCSVT2022](https://ieeexplore.ieee.org/abstract/document/9729212) Saliency and granularity: Discovering temporal coherence for video-based person re-identification. Cuiqun Chen, Mang Ye, Meibin Qi, Jingjing Wu, Yimin Liu, Jianguo Jiang.

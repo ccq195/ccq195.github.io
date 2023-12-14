@@ -23,8 +23,8 @@ Work experiences
 
 Education
 ======
-* 2016.09 - 2022.06, PhD, Hefei University of Technology, Hefei, China.
-* 2012.09 - 2016.06, B.E, Fuyang Normal University, Fuyang, China.
+* 2016.09 - 2022.06, PhD, Hefei University of Technology, Hefei, China
+* 2012.09 - 2016.06, B.E, Fuyang Normal University, Fuyang, China
 
 Projects
 ======

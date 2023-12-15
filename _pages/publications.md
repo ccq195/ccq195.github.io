@@ -33,12 +33,14 @@ author_profile: true
 </div>
 </div>
 
-
 ## 
-<img src="https://github.com/ccq195/ccq195.github.io/blob/master/images/tip2022.png" width="200" align="left" /> [TIP2022](https://ieeexplore.ieee.org/abstract/document/9725265) Structure-aware positional transformer for visible-infrared person re-identification. **Cuiqun Chen**, Mang Ye, Meibin Qi, Jingjing Wu, Jianguo Jiang, Chia-Wen Lin.     
+<div class='paper-box'><div class='paper-box-image'><div><img src='https://github.com/ccq195/ccq195.github.io/blob/master/images/tcsvt2022.png' width="200" align="left"></div></div>
+<div class='paper-box-text' markdown="1">
 
-## 
-<img src="https://github.com/ccq195/ccq195.github.io/blob/master/images/tcsvt2022.png" width="200" align="left" /> [TCSVT2022](https://ieeexplore.ieee.org/abstract/document/9729212) Saliency and granularity: Discovering temporal coherence for video-based person re-identification. **Cuiqun Chen**, Mang Ye, Meibin Qi, Jingjing Wu, Yimin Liu, Jianguo Jiang.
+[TCSVT2022](https://ieeexplore.ieee.org/abstract/document/9729212) Saliency and granularity: Discovering temporal coherence for video-based person re-identification. **Cuiqun Chen**, Mang Ye, Meibin Qi, Jingjing Wu, Yimin Liu, Jianguo Jiang.
+
+</div>
+</div>
 
 
 ## 2021

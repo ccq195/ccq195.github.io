@@ -42,7 +42,6 @@ Honours and Awards
 * 2013,2015, National Encouragement Scholarship 
 * 2014, National Scholarship                                               
 
-![](images/cvpr2023.png)
 
 
 

@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2023
 <p>
-![](https://github.com/ccq195/ccq195.github.io/blob/master/images/cvpr2023.png #pic_left =100x200)
+![](https://github.com/ccq195/ccq195.github.io/blob/master/images/cvpr2023.png#pic_left =100x200)
 
 [CVPR2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Towards_Modality-Agnostic_Person_Re-Identification_With_Descriptive_Query_CVPR_2023_paper.pdf) Towards Modality-Agnostic Person Re-Identification With Descriptive Query. **Cuiqun Chen**, Mang Ye, Ding Jiang. 
 </p>

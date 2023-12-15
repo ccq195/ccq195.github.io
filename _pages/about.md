@@ -42,7 +42,7 @@ Honours and Awards
 * 2013,2015, National Encouragement Scholarship 
 * 2014, National Scholarship                                               
 
-![](images/chencuiqun.png)
+![](images/cvpr2023.png)
 
 
 

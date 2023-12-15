@@ -5,15 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-
-**Sketch-photo Recognition/Re-identification** 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <style>
 table {
     border-collapse: collapse;
@@ -26,6 +17,8 @@ blockquote {
     padding-left: 10px;
 }
 </style>
+
+**Sketch-photo Recognition/Re-identification** 
 
 --- | ---
 <img src='../images/cvpr2023.png' width=300 height=300> | ``CVPR 2023`` [Towards Modality-Agnostic Person Re-Identification With Descriptive Query.](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Towards_Modality-Agnostic_Person_Re-Identification_With_Descriptive_Query_CVPR_2023_paper.pdf) **Cuiqun Chen**, Mang Ye, Ding Jiang.
@@ -42,7 +35,7 @@ blockquote {
 **Video-based Person Re-identification**
 
  --- | ---
-<img src='../images/tcsvt2022.png' width=300 height=300> | ``TCSVT 2022`` [Saliency and granularity: Discovering temporal coherence for video-based person re-identification.](https://ieeexplore.ieee.org/abstract/document/9729212) **Cuiqun Chen**, Mang Ye, Meibin Qi, Jingjing Wu, Yimin Liu, Jianguo Jiang.
+<img src='../images/tcsvt2022.png' width=400 height=400> | ``TCSVT 2022`` [Saliency and granularity: Discovering temporal coherence for video-based person re-identification.](https://ieeexplore.ieee.org/abstract/document/9729212) **Cuiqun Chen**, Mang Ye, Meibin Qi, Jingjing Wu, Yimin Liu, Jianguo Jiang.
 
 
 

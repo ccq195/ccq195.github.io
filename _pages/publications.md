@@ -6,10 +6,7 @@ author_profile: true
 ---
 
 ## Sketch-photo Recognition/Re-identification
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div align='left'><img src='../images/cvpr2023.png' alt="sym" width="200"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-  ``CVPR 2023`` [Towards Modality-Agnostic Person Re-Identification With Descriptive Query.](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Towards_Modality-Agnostic_Person_Re-Identification_With_Descriptive_Query_CVPR_2023_paper.pdf) **Cuiqun Chen**, Mang Ye, Ding Jiang.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div align='left'><img src='../images/cvpr2023.png' alt="sym" width="200"></div></div> ``CVPR 2023`` [Towards Modality-Agnostic Person Re-Identification With Descriptive Query.](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Towards_Modality-Agnostic_Person_Re-Identification_With_Descriptive_Query_CVPR_2023_paper.pdf) **Cuiqun Chen**, Mang Ye, Ding Jiang.
 </div>
 </div>
 

@@ -14,7 +14,7 @@ author_profile: true
 </div>
 </div>
 
-
+<!--
 ## 2022
 <div class='paper-box'><div class='paper-box-image'><div><img src='https://github.com/ccq195/ccq195.github.io/blob/master/images/mm2022.png' width="200" align="left"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,3 +46,4 @@ author_profile: true
 ## 2021
 <img src="https://github.com/ccq195/ccq195.github.io/blob/master/images/tifs2021.png" width="200" align="left" /> [TIFS2021](https://ieeexplore.ieee.org/abstract/document/9665382) Dynamic tri-level relation mining with attentive graph for visible infrared re-identification. Mang Ye, **Cuiqun Chen**, Jianbing Shen, Ling Shao.
 
+-->

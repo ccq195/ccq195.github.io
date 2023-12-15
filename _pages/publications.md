@@ -10,6 +10,7 @@ author_profile: true
 
 <img src='../images/mm2022.png' width=200 align='left'>  ``MM 2022`` [Sketch transformer: Asymmetrical disentanglement learning from dynamic synthesis.](https://dl.acm.org/doi/abs/10.1145/3503161.3547993) **Cuiqun Chen**, Mang Ye, Meibin Qi, Bo Du.
 
+
 ---
 ## Visible-infrared Person Re-identification
 
@@ -17,6 +18,7 @@ author_profile: true
 
 
 <img src='../images/tifs2021.png' width=200 align='left'> ``TIFS 2021`` [Dynamic tri-level relation mining with attentive graph for visible infrared re-identification.](https://ieeexplore.ieee.org/abstract/document/9665382) Mang Ye, **Cuiqun Chen**, Jianbing Shen, Ling Shao.
+
 
 ---
 ## Video-based Person Re-identification

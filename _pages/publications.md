@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2023
-- ``CVPR 2023``[Towards Modality-Agnostic Person Re-Identification With Descriptive Query.] (https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Towards_Modality-Agnostic_Person_Re-Identification_With_Descriptive_Query_CVPR_2023_paper.pdf) **Cuiqun Chen**, Mang Ye, Ding Jiang. 
+- ``CVPR 2023``[Towards Modality-Agnostic Person Re-Identification With Descriptive Query.](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Towards_Modality-Agnostic_Person_Re-Identification_With_Descriptive_Query_CVPR_2023_paper.pdf) **Cuiqun Chen**, Mang Ye, Ding Jiang. 
 
 
 

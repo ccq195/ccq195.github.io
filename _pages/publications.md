@@ -6,12 +6,17 @@ author_profile: true
 ---
 
 ## Sketch-photo Recognition/Re-identification
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/cvpr2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+``CVPR 2023`` [Towards Modality-Agnostic Person Re-Identification With Descriptive Query.](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Towards_Modality-Agnostic_Person_Re-Identification_With_Descriptive_Query_CVPR_2023_paper.pdf) **Cuiqun Chen**, Mang Ye, Ding Jiang.
+</div>
+</div>
 
-<img src='../images/cvpr2023.png' width=200 align='left'> ``CVPR 2023`` [Towards Modality-Agnostic Person Re-Identification With Descriptive Query.](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Towards_Modality-Agnostic_Person_Re-Identification_With_Descriptive_Query_CVPR_2023_paper.pdf) **Cuiqun Chen**, Mang Ye, Ding Jiang.
-
-## 
-<img src='../images/mm2022.png' width=200 align='left'> ``MM 2022`` [Sketch transformer: Asymmetrical disentanglement learning from dynamic synthesis.](https://dl.acm.org/doi/abs/10.1145/3503161.3547993) **Cuiqun Chen**, Mang Ye, Meibin Qi, Bo Du.
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/mm2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+``MM 2022`` [Sketch transformer: Asymmetrical disentanglement learning from dynamic synthesis.](https://dl.acm.org/doi/abs/10.1145/3503161.3547993) **Cuiqun Chen**, Mang Ye, Meibin Qi, Bo Du.
+</div>
+</div>
 
 ## Visible-infrared Person Re-identification
 <img src='../images/tip2022.png' width=200 align='left'> ``TIP 2022`` [Structure-aware positional transformer for visible-infrared person re-identification.](https://ieeexplore.ieee.org/abstract/document/9725265) **Cuiqun Chen**, Mang Ye, Meibin Qi, Jingjing Wu, Jianguo Jiang, Chia-Wen Lin.

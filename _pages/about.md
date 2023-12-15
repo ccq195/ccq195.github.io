@@ -43,6 +43,6 @@ Honours and Awards
 * 2014, National Scholarship                                               
 
 
-<img src='https://github.com/ccq195/ccq195.github.io/blob/master/images/mm2022.png' width="200" align="left">
+<img src='https://github.com/ccq195/ccq195.github.io/blob/master/images/chencuiqun.png' width="200" align="left">
 
 

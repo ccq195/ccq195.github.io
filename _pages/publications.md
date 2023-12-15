@@ -16,7 +16,7 @@ author_profile: true
 ## Visible-infrared Person Re-identification
 <img src='../images/tip2022.png' width=200 align='left'> ``TIP 2022`` [Structure-aware positional transformer for visible-infrared person re-identification.](https://ieeexplore.ieee.org/abstract/document/9725265) **Cuiqun Chen**, Mang Ye, Meibin Qi, Jingjing Wu, Jianguo Jiang, Chia-Wen Lin.
 
-##
+---
 <img src='../images/tifs2021.png' width=200 align='left'> ``TIFS 2021`` [Dynamic tri-level relation mining with attentive graph for visible infrared re-identification.](https://ieeexplore.ieee.org/abstract/document/9665382) Mang Ye, **Cuiqun Chen**, Jianbing Shen, Ling Shao.
 
 

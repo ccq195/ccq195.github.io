@@ -16,7 +16,7 @@ I graduated from the School of Computer Science and Information Engineering, Hef
 
 You can find my [CV](../assets/Curriclum_Vitae.pdf) and [CN-CV](../assets/Curriclum_Vitae_cn.pdf) .
 
-Work experiences
+Work Experiences
 ======
 * 2022.07 - To date, a postdoc at the School of Computer Science, Wuhan University, Wuhan, China
 * 2019.12 - 2020.06, an intern at the IFLYTEK AI Research Institute, Hefei, China

@@ -21,6 +21,6 @@ Survey
 AI for Science
 ======
 
-![](https://github.com/ccq195/ccq195.github.io/blob/master/images/cvpr2023.png)
+![](https://github.com/ccq195/ccq195.github.io/blob/master/images/cvpr2023.pdf)
 
-<img src="https://github.com/ccq195/ccq195.github.io/blob/master/images/tifs2021.png" width="200" align="left" /> [TIFS2021](https://ieeexplore.ieee.org/abstract/document/9665382) Dynamic tri-level relation mining with attentive graph for visible infrared re-identification. Mang Ye, **Cuiqun Chen**, Jianbing Shen, Ling Shao.
+<img src="https://github.com/ccq195/ccq195.github.io/blob/master/images/cvpr2023.pdf" width="200" align="left" /> [TIFS2021](https://ieeexplore.ieee.org/abstract/document/9665382) Dynamic tri-level relation mining with attentive graph for visible infrared re-identification. Mang Ye, **Cuiqun Chen**, Jianbing Shen, Ling Shao.

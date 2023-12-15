@@ -12,8 +12,9 @@ author_profile: true
 ##
 <img src='../images/mm2022.png' width=200 align='left'>  ``MM 2022`` [Sketch transformer: Asymmetrical disentanglement learning from dynamic synthesis.](https://dl.acm.org/doi/abs/10.1145/3503161.3547993) **Cuiqun Chen**, Mang Ye, Meibin Qi, Bo Du.
 
+##
+**Visible-infrared Person Re-identification**
 
-## Visible-infrared Person Re-identification
 <img src='../images/tip2022.png' width=200 align='left'> ``TIP 2022`` [Structure-aware positional transformer for visible-infrared person re-identification.](https://ieeexplore.ieee.org/abstract/document/9725265) **Cuiqun Chen**, Mang Ye, Meibin Qi, Jingjing Wu, Jianguo Jiang, Chia-Wen Lin.
 
 ##

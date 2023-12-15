@@ -43,5 +43,12 @@ Honours and Awards
 * 2014, National Scholarship                                               
 
 
+## 
+<div class='paper-box'><div class='paper-box-image'><div><img src='https://github.com/ccq195/ccq195.github.io/blob/master/images/tcsvt2022.png' width="200" align="left"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[TCSVT2022](https://ieeexplore.ieee.org/abstract/document/9729212) Saliency and granularity: Discovering temporal coherence for video-based person re-identification. **Cuiqun Chen**, Mang Ye, Meibin Qi, Jingjing Wu, Yimin Liu, Jianguo Jiang.
+
+</div>
+</div>
 

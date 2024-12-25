@@ -14,7 +14,7 @@ Hello! I am currently an associate professor at the School of Computer Science a
 
 I graduated from the School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China with a doctor's degree, advised by Prof. [Meibin Qi (齐美彬)](https://dsp.hfut.edu.cn/main.htm). I received my bachelor’s degree from Fuyang Normal University, Fuyang, China. 
 
-You can find my [CV](../assets/Curriclum_Vitae.pdf) and [CN-CV](../assets/Curriclum_Vitae_cn.pdf) .
+You can find my [CV](../assets/Curriclum_Vitae_chencuiqun.pdf) and [CN-CV](../assets/Curriclum_Vitae_cn_chencuiqun.pdf) .
 
 Work Experiences
 ======

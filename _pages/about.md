@@ -10,7 +10,7 @@ redirect_from:
 
 Short Bio
 ======
-Hello! I am currently an associate professor at the School of Computer Science and Technology, Anhui University, Hefei, China. Prior to this, I served as a postdoctoral researcher in the School of Computer Science at Wuhan University in Wuhan, China, where I was mentored by Prof. [Mang Ye (叶茫)](https://marswhu.github.io/index.html) and Prof. [Bo Du (杜博)](http://sigma.whu.edu.cn/resource.php). My research interest includes person re-identification, sketch-photo recognition, and multi-modal learning. 
+Hello! I am currently an associate professor at the [School of Computer Science and Technology, Anhui University, Hefei, China.](https://cs.ahu.edu.cn/2025/0115/c20807a356363/page.htm) Prior to this, I served as a postdoctoral researcher in the School of Computer Science at Wuhan University in Wuhan, China, where I was mentored by Prof. [Mang Ye (叶茫)](https://marswhu.github.io/index.html) and Prof. [Bo Du (杜博)](http://sigma.whu.edu.cn/resource.php). My research interest includes person re-identification, sketch-photo recognition, and multi-modal learning. 
 
 I graduated from the School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China with a doctor's degree, advised by Prof. [Meibin Qi (齐美彬)](https://dsp.hfut.edu.cn/main.htm). I received my bachelor’s degree from Fuyang Normal University, Fuyang, China. 
 
